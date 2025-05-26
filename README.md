@@ -1,5 +1,5 @@
 
-# Prova Visão COmputacional – Classificação de Imagens com Visão Computacional e IA
+# Prova Visão Computacional – Classificação de Imagens com Visão Computacional e IA
 
 ## Descrição do Problema
 
@@ -8,11 +8,11 @@ O Objetoivo deste projeto foi implementar um programa que realize a classificaç
 
 ## Justificativa das Técnicas Utilizadas
 
-- Pré-processamento com OpenCV: As imagens passaram por redimensionamento, suavização com filtro Gaussiano e equalização de histograma para melhorar a uniformidade da iluminação e realçar detalhes relevantes, como vimos em sala ao longo do semestre.
-- Conversão para tons de cinza: Reduz complexidade e foca em formas e padrões, tornando mais simples de diferenciar as imagens.
-- Flattening das imagens: Como forma simples de representar cada imagem como vetor de características.
-- Classificador SVM: Escolhi por ser simples de se usar e por já termos utilizados em outras matérias na faculdade, o SVM tenta separar as classes das imagens com uma linha, nesse caso como estamos tratando de apenas duas categorias, sendo cachorro e gato, o SVM se torna um bom exemplo de classificador.
-- Avaliação com métricas clássicas: Precisão, recall e F1-score para analisar a performance da classificação, são as métricas padrões que mudamos quando estamos aprendendo aprendizado de máquina.
+   - Pré-processamento com OpenCV: As imagens passaram por redimensionamento, suavização com filtro Gaussiano e equalização de histograma para melhorar a          uniformidade da iluminação e realçar detalhes relevantes, como vimos em sala ao longo do semestre.
+   - Conversão para tons de cinza: Reduz complexidade e foca em formas e padrões, tornando mais simples de diferenciar as imagens.
+   - Flattening das imagens: Como forma simples de representar cada imagem como vetor de características.
+   - Classificador SVM: Escolhi por ser simples de se usar e por já termos utilizados em outras matérias na faculdade, o SVM tenta separar as classes das          imagens com uma linha, nesse caso como estamos tratando de apenas duas categorias, sendo cachorro e gato, o SVM se torna um bom exemplo de classificador.
+   - Avaliação com métricas clássicas: Precisão, recall e F1-score para analisar a performance da classificação, são as métricas padrões que mudamos quando        estamos aprendendo aprendizado de máquina.
 
 ## Etapas Realizadas
 
@@ -61,7 +61,7 @@ weighted avg     0.6667    0.6667    0.6667         6
 
 ## Tempo Total Gasto
    
-   -Demorou cerca 1 hora e 40 minutos para o desenvolvimmento e documentação. 
+   - Demorou cerca 1 hora e 40 minutos para o desenvolvimmento e documentação. 
 
 ## Dificuldades Encontradas
 
