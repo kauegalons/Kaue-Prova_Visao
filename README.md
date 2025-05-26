@@ -3,7 +3,7 @@
 
 ## Descrição do Problema
 
-O Objetoivo deste projeto foi implementar um programa que realize a classificação de imagens de gatos e cachorros. Utilizando a prendizado de maquina e com os tratamentos de imagens com funções que vimos em sala.
+O Objetivo deste projeto foi implementar um programa que realize a classificação de imagens de gatos e cachorros. Utilizando a prendizado de maquina e com os tratamentos de imagens com funções que vimos em sala.
 
 
 ## Justificativa das Técnicas Utilizadas
